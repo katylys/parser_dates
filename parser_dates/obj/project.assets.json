@@ -220,14 +220,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/katylys/Projects/git_parser_dates/parser_dates/parser_dates.csproj",
+      "projectUniqueName": "/Users/katylys/Projects/parser_dates/parser_dates/parser_dates.csproj",
       "projectName": "parser_dates",
-      "projectPath": "/Users/katylys/Projects/git_parser_dates/parser_dates/parser_dates.csproj",
+      "projectPath": "/Users/katylys/Projects/parser_dates/parser_dates/parser_dates.csproj",
       "packagesPath": "/Users/katylys/.nuget/packages/",
-      "outputPath": "/Users/katylys/Projects/git_parser_dates/parser_dates/obj/",
+      "outputPath": "/Users/katylys/Projects/parser_dates/parser_dates/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/katylys/.config/NuGet/NuGet.Config"
+        "/Users/katylys/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
